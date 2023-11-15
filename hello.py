@@ -43,7 +43,7 @@ st.video(amigos)
 st.subheader(':candle: mix 5')
 st.video(a4)
 
-st.subheader(:100: mix 6')
+st.subheader(':100: mix 6')
 st.video(b45)
 
 st.subheader(':car: mix 7')
